@@ -11,13 +11,7 @@ BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
 BRTV 北京卫视,http://118.81.195.79:9003/hls/20/index.m3u8
 CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN (1080p),https://english-livebkali.cgtn.com/live/encgtn.m3u8
-CGTN,https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
-CGTN Arabic,https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-CGTN Documentary,https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
-CGTN French,https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
-CGTN Russian,https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
-CGTN Spanish,https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
 Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
@@ -43,8 +37,3 @@ Jilin Movie Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c
 Jilin Rural Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
 Laughter Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
 Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
-Nanchang News & Generalist Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
-Nei Monggol TV,http://1.24.190.98:10080/hls/39/index.m3u8
-Nei Monggol TV,http://49.113.179.174:4022/udp/238.125.7.93:5140
-Nei Monggol TV,http://110.19.156.172:9901/tsfile/live/1003_1.m3u8
-Nei Monggol TV 2 Mongolian Culture Channel,http://1.24.190.98:10080/hls/40/index.m3u8
